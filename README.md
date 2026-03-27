@@ -3,7 +3,7 @@
 A modern, elegant bookmark management application built with React, TypeScript, and Supabase. Save, organize, and manage your favorite web links with a beautiful, responsive interface.
 
 ![Bookmarkly Pro](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+<!-- ![License](https://img.shields.io/badge/license-MIT-green.svg) -->
 
 ## Features
 
